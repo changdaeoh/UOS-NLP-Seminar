@@ -1,3 +1,10 @@
+## cs224n - Natural Language Processing, Stanfold 2019w
+[https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
+* video review 
+
+<br/>
+
 ### 1. NLP Seminar Curriculum 
 
 |       Date       | Topic | Presenters | Slides |
